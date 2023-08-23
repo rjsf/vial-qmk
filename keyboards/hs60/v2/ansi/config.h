@@ -20,6 +20,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define HS60_ANSI
 
+
+#define VIAL_KEYBOARD_UID {0x3F, 0xBC, 0x4C, 0x94, 0x09, 0x00, 0xDB, 0x7E}
+#define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
+#define VIAL_UNLOCK_COMBO_COLS { 0, 1 }
+
+
+
 /* Backlight options */
 
 #define RGB_BACKLIGHT_ENABLED 1
