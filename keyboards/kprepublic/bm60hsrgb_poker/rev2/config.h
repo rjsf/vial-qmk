@@ -19,8 +19,6 @@
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
 #define VIAL_UNLOCK_COMBO_COLS { 0, 1 }
 #define DYNAMIC_KEYMAP_LAYER_COUNT 4
-#define NO_ACTION_MACRO
-#define NO_ACTION_FUNCTION
 
 //rgb light setting
 #define RGBLED_NUM          6
